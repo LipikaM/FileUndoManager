@@ -1,7 +1,7 @@
 package com.assignment.FileUndoManager.impl;
 
 /**
- * A factory for {@link UndoManager}s.
+ * A factory for {@link UndoManager}
  *
  */
 public interface UndoManagerFactory {
